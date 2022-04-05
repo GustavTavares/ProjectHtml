@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(110, 110, 110);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header, footer{
+    background-color: rgb(170, 169, 169);
+}
+nav{
+    background-color: rgb(207, 205, 205);
+    padding: 20px 10px 20px 10px; /*acima direita abaixo esquerda */
+}
+header{
+    padding: 30px 20px 20px 30px ;
+}
+footer{
+    padding: 10px 20px 20px 50px;
+}
+section{
+    padding: 100px 50x
+}
